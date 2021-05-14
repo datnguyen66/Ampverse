@@ -1,0 +1,36 @@
+.numberAmpverse{
+    h1{
+        text-align: center;
+        color:rgb(255, 205, 3) ;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .content___number{
+        background-image: url(../img/number.jpg);
+        height: 700px;
+        .text___content{
+            .content_____f{
+                color: white;
+                display: flex;
+                margin-left: 300px;
+                p{
+                    margin-right: 215px;
+                    width: 180px;
+                    text-align: center;
+                    margin-top: 300px;
+                }
+            }
+            .content_____l{
+                color: white;
+                display: flex;
+                margin-left: 300px;
+                p{
+                    margin-right: 215px;
+                    width: 180px;
+                    text-align: center;
+                    margin-top: 100px;
+                }
+            }
+        }
+    }
+}

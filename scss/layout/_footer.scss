@@ -1,0 +1,30 @@
+footer{
+    background-color: rgb(138, 138, 138);
+    height: 100px;
+    .text_____footer{
+        display: flex;
+        padding-top: 35px;
+        margin-left: 260px;
+        p{
+            font-size: 15px;
+            margin-right: 30px;
+            padding-top: 5px;
+            
+        }
+        a{
+            margin-left: 30px;
+            text-decoration: none;
+            color: white;
+            font-size: 15px;
+            padding-top: 5px;
+            &:hover{
+                color: rgba(0, 238, 255, 0.418);
+            }
+        }
+        img{
+            width: 32px;
+            height: 32px;
+        }
+        
+    }
+}
